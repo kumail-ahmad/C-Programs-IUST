@@ -1,0 +1,11 @@
+# Windows junk
+Thumbs.db
+.DS_Store
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.class
